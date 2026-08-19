@@ -4,8 +4,8 @@ echo ----------------------------------------------------
 echo Coach System Auto Update and Deploy Tool
 echo ----------------------------------------------------
 echo.
-echo Executing deploy script from backend...
-cd /d "%~dp0coach-backend"
+echo Executing deploy script from admin-server...
+cd /d "%~dp0admin-server"
 node scripts/deploy.js
 if %errorlevel% neq 0 (
     echo.
