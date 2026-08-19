@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "firebaseUID": "example_uid_1",
+    "name": "王小明",
+    "phone": "0912345678",
+    "shortTermGoal": "減脂2公斤",
+    "midTermGoal": "體脂降至18%",
+    "longTermGoal": "完成半馬"
+  }
+]
